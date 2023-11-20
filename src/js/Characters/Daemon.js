@@ -5,5 +5,3 @@ export default class Daemon extends Character {
         super(name, 'Daemon');
     }
 }
-// const player = new Daemon('name');
-// console.log(player.health)
